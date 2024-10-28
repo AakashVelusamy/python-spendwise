@@ -5,7 +5,7 @@
 - **Kabilan S** – 23PT14
 
 ## Overview
-The **SpendWise** Expense Manager class offers a simple solution for individuals looking to take control of their personal finances. This class is designed to facilitate the organization and monitoring of expenses across various categories, such as food, entertainment, transportation, and others. Users can add new expenses, edit existing entries, or delete them as needed, ensuring their records remain up to date and accurate.
+The **SpendWise** Expense Manager offers a simple solution for individuals looking to take control of their personal finances. This class is designed to facilitate the organization and monitoring of expenses across various categories, such as food, entertainment, transportation, and others. Users can add new expenses, edit existing entries, or delete them as needed, ensuring their records remain up to date and accurate.
 
 ## Implementations
 - **Classes and Objects**
@@ -48,4 +48,4 @@ The **SpendWise** Expense Manager class offers a simple solution for individuals
   Search for expenses by date, category, or time period, allowing quick location of specific transactions.
 
 ## Conclusion
-The **SpendWise** Expense Manager class serves as an intuitive and comprehensive tool for individuals seeking to gain better insight into their financial health and habits. Its variety of features and customizable options make it a valuable asset for personal financial management.
+The **SpendWise** Expense Manager serves as an intuitive and comprehensive tool for individuals seeking to gain better insight into their financial health and habits. Its variety of features and customizable options make it a valuable asset for personal financial management.
